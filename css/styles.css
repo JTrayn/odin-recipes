@@ -1,0 +1,43 @@
+
+  body {
+    background-color: darkgray;
+  }
+  
+  .container {
+    background-color: #888888;
+    margin: 10px;
+  }
+  
+  .container p {
+    font-size: 20px;
+    font-weight: bold;
+    color: antiquewhite;
+  }
+  
+  .container h2 {
+    font-size: 24px;
+    font-weight:lighter;
+    color: red;
+  }
+  
+  .ingredients,
+  .steps {
+    background-color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px 0;
+    margin: 15px;
+  }
+  
+  .steps {
+    color: #009900;
+  }
+  
+  img {
+    height: auto;
+    width: 350px;
+  }
+  
+
